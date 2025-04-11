@@ -1,34 +1,32 @@
-# Real Estate Website
+# Dự án: Website Bất Động Sản (REMS)
 
-A modern real estate website built with Next.js, React, and Tailwind CSS. This project provides a platform for users to search, view, and filter real estate properties.
+## Tác giả: Mai Hong Duc
 
+## Mục Tiêu Dự Án:
 
-## Features
+- Cung cấp một nền tảng trực tuyến đơn giản nhưng mạnh mẽ cho việc tìm kiếm bất động sản.
+- Giúp người dùng dễ dàng tìm kiếm và so sánh các bất động sản phù hợp với nhu cầu của họ.
+- Tạo trải nghiệm người dùng mượt mà và trực quan trên mọi thiết bị.
 
-- **Property Search**: Search properties by location, price range, number of bedrooms, and more
-- **Advanced Filtering**: Filter properties based on various criteria
-- **Property Details**: View detailed information about each property
-- **Responsive Design**: Fully responsive layout that works on desktop, tablet, and mobile devices
-- **User Authentication**: Sign up, sign in, and user profile management
-- **Favorites**: Save properties to your favorites list
-- **Similar Properties**: View similar properties based on your current selection
+## Tính Năng Chính
 
-## Tech Stack
+- **Tìm kiếm và lọc bất động sản**: Tìm kiếm theo nhiều tiêu chí như vị trí, giá, số phòng ngủ/tắm, loại bất động sản.
+- **Xem chi tiết bất động sản**: Xem thông tin đầy đủ, hình ảnh, và các tính năng của bất động sản.
+- **Hệ thống xác thực người dùng**: Đăng ký, đăng nhập, và khôi phục mật khẩu.
 
-- **Frontend**: Next.js 14, React 18, Tailwind CSS
-- **UI Components**: shadcn/ui
-- **State Management**: React Context API
-- **Authentication**: Custom authentication system
-- **Deployment**: Vercel (recommended)
+## Đối Tượng Sử Dụng:
 
-## Getting Started
+Website này phù hợp với tất cả những ai đang tìm kiếm bất động sản để mua hoặc thuê, từ người mua nhà lần đầu, nhà đầu tư bất động sản, đến những người đang tìm kiếm nơi ở mới.
 
-### Prerequisites
+## Công Nghệ Sử Dụng
 
-- Node.js 18.0 or later
-- npm or yarn
+- **Next.js**: Framework React để xây dựng giao diện người dùng.
+- **React**: Thư viện JavaScript để xây dựng giao diện người dùng.
+- **Tailwind CSS**: Framework CSS để tạo giao diện đẹp và responsive.
+- **TypeScript**: Ngôn ngữ lập trình để phát triển ứng dụng với kiểu dữ liệu an toàn.
+- **Node.js**: Môi trường runtime cho JavaScript.
 
-### Installation
+## Cài Đặt và Chạy Dự Án
 
 1. Clone the repository:
    ```bash
